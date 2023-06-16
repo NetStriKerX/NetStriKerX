@@ -2,7 +2,7 @@
 A highly motivated Full Stack Developer with expertise in web development technologies and tools. Skilled in front-end and back-end development as well as database management. Passionate about creating user-friendly and responsive websites which essential for business performance. As a former Math Teacher, analytical and problem-solving skills are always intensely developed. Furthermore, the experience in communication and delivering knowledge and skills to others are top strenghts.
 
 
-Portfolio : https://symphonious-blini-a12c43.netlify.app/ (Not Completed)
+
 
 <a href="https://www.leetcode.com/netkasawat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="netkasawat" height="30" width="40" /> netkasawat</a>
 
