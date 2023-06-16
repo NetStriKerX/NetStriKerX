@@ -1,5 +1,5 @@
 # 💫 About Me:
-A highly motivated Full Stack Developer with a strong foundation in web development technologies gained from TechUp. Skilled in front-end and back-end development, and database management. Possess excellent analytical and problem-solving skills. Passionate about creating user-friendly and responsive websites that meet business requirements. As a former Math Teacher, I have experience in delivering instruction in a clear and concise manner to improve understanding and knowledge retention.
+A highly motivated Full Stack Developer with expertise in web development technologies and tools. Skilled in front-end and back-end development as well as database management. Passionate about creating user-friendly and responsive websites which essential for business performance. As a former Math Teacher, analytical and problem-solving skills are always intensely developed. Furthermore, the experience in communication and delivering knowledge and skills to others are top strenghts.
 
 
 Portfolio : https://symphonious-blini-a12c43.netlify.app/ (Not Completed)
